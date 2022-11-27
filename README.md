@@ -6,7 +6,7 @@ This is a solution to the [Article preview component on Frontend Mentor](https:/
 
 ### Links
 
-- Live Site URL: [Here](https://fancy-kashata-25de7b.netlify.app/)
+- Live Site URL: [Here](https://jazzy-hamster-7c76d2.netlify.app/)
 
 ## My process
 
